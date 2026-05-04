@@ -24,7 +24,7 @@ tree
 Dieses Projekt basiert auf Unterrichtsmaterial zum Thema Virtualisierung sowie praktischen Übungen und eigenen Implementationen.
 
 ## Zusätzliche Links
-- GitHub Repository: https://github.com/[Dein-Username]/virtualisierung_[meinkurzzeichen]_2026  
+- GitHub Repository: https://github.com/pantrimasi/virtualisierung_mk_2026  
 
 **Source Directory:**  
 - Aufgabenstellung Virtualisierung (Repository-Struktur und Umsetzungsvorgaben)
