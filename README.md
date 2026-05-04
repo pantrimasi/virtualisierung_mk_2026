@@ -96,3 +96,8 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 ------------------------------------------------------------
 
 # Container Performance
+| Command | Beschreibung |
+| -------- | ------- |
+| Docker stats <Container ID> | $250 |
+| February | $80 |
+| March | $420 |
