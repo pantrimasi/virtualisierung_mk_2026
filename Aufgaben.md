@@ -44,3 +44,9 @@ hello-world    latest   f9078146db2e
 ```docker images```
 
 Es sollte kein hello-world Container und kein Image mehr vorhanden sein.
+
+## sudo bei Docker
+
+Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` notwendig, da Docker dort automatisch mit den richtigen Berechtigungen läuft.
+
+
