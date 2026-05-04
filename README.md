@@ -74,10 +74,10 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 ```docker login```
 
 ### 2. Tag erstellen:
-```docker tag pythonwebserver pantrimasi/pythonwebserver:v1.0```
+```docker tag <local-image> <username>/<repository>:tagname```
 
 ### 3. Einloggen:
-```docker push pantrimasi/pythonwebserver:v1.0```
+```docker push <username>/<repository>:tagname```
 
 ------------------------------------------------------------
 
