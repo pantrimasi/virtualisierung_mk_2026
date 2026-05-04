@@ -69,6 +69,16 @@ Es sollte kein hello-world Container und kein Image mehr vorhanden sein.
 
 Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` notwendig, da Docker dort automatisch mit den richtigen Berechtigungen läuft.
 
+## Image auf Docker Hub Pushen
+### 1. Einloggen:
+```docker login```
+
+### 2. Tag erstellen:
+```docker tag pythonwebserver pantrimasi/pythonwebserver:v1.0```
+
+### 3. Einloggen:
+```docker push pantrimasi/pythonwebserver:v1.0```
+
 ------------------------------------------------------------
 
 ## Beitrag leisten (Contributing)
