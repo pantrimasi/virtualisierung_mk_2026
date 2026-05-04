@@ -16,8 +16,22 @@ cd virtualisierung_mk_2026
 3. Struktur prüfen:  
 tree
 
+## Beitrag leisten (Contributing)
+Änderungen erfolgen über Pull Requests. Jede Anpassung soll klar beschrieben und sinnvoll strukturiert sein. Issues können für Fehler oder neue Ideen erstellt werden. Die bestehende Ordnerstruktur muss eingehalten werden.
+
+## Lizenz & Credits
+**Autor:** PantriMasi  
+Dieses Projekt basiert auf Unterrichtsmaterial zum Thema Virtualisierung sowie praktischen Übungen und eigenen Implementationen.
+
+## Zusätzliche Links
+- Docker Repository: https://hub.docker.com/repository/docker/pantrimasi/pythonwebserver/general
+
+**Source Directory:**  
+- Aufgabenstellung Virtualisierung (Repository-Struktur und Umsetzungsvorgaben)
+
 ------------------------------------------------------------
 
+# Aufgaben
 ## Vorgehen alle Spuren löschen
 
 ### 1. Alle Container anzeigen
@@ -81,15 +95,4 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 
 ------------------------------------------------------------
 
-## Beitrag leisten (Contributing)
-Änderungen erfolgen über Pull Requests. Jede Anpassung soll klar beschrieben und sinnvoll strukturiert sein. Issues können für Fehler oder neue Ideen erstellt werden. Die bestehende Ordnerstruktur muss eingehalten werden.
-
-## Lizenz & Credits
-**Autor:** PantriMasi  
-Dieses Projekt basiert auf Unterrichtsmaterial zum Thema Virtualisierung sowie praktischen Übungen und eigenen Implementationen.
-
-## Zusätzliche Links
-- Docker Repository: https://hub.docker.com/repository/docker/pantrimasi/pythonwebserver/general
-
-**Source Directory:**  
-- Aufgabenstellung Virtualisierung (Repository-Struktur und Umsetzungsvorgaben)
+# Container Performance
