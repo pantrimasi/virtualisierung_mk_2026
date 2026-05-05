@@ -1,0 +1,15 @@
+
+    Directory: C:\Material\001 ZLI\03_Github_Repos\virtualisierung_mk_2026\portainer\data
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-r--          05.05.2026    10:23                bin
+d-r--          05.05.2026    10:23                certs
+d-r--          05.05.2026    10:23                chisel
+d-r--          05.05.2026    10:23                compose
+d-r--          05.05.2026    10:23                docker_config
+d-r--          05.05.2026    10:23                tls
+-a---          05.05.2026    10:23          32768 portainer.db
+-a---          05.05.2026    10:23            227 portainer.key
+-a---          05.05.2026    10:23            190 portainer.pub
+
