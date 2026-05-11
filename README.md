@@ -102,6 +102,32 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 | `docker stats <container-id>` | Shows stats like CPU, MEM USAGE and more |
 | `docker stats -a` | Shows stats of all containers including stopped ones |
 
+## Container-Monitoring mit cAdvisor, Prometheus und Grafana
+
+### 1. Den ZIP-Ordner "docker-monitoring" downloaden und extrahieren.
+
+### 2. Container aufstarten
+```docker compose up -d```
+
+### 3. Passwort und Username für Grafana finden
+
+Das Passwort und Username für Grafana befindet sich in docker-compose.yml.
+
+## Neue Ordnerstruktur
+
+docker-monitoring-II/<br>
+├── docker-compose.yml<br>
+├── docker-containers.json<br>
+├── grafana<br>
+│   └── provisioning<br>
+│      ├── dashboards<br>
+│       │   ├── dashboards.yml<br>
+│       │   └── docker.json<br>
+│       └── datasources<br>
+│           └── datasource.yml<br>
+└── prometheus<br>
+└── prometheus.yml<br>
+
 ---
 
 # Pihole test
