@@ -1,0 +1,8 @@
+PS C:\Material\001 ZLI\03_Github_Repos\my_project> docker compose up -d
+time="2026-05-06T14:04:56+02:00" level=warning msg="C:\\Material\\001 ZLI\\03_Github_Repos\\my_project\\docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[+] Running 4/4
+ ✔ Network my_project_default        Created                                                  0.1s
+ ✔ Volume my_project_db_data         Created                                                  0.0s
+ ✔ Container my_project-mysql-1      Started                                                  1.5s
+ ✔ Container my_project-wordpress-1  Started                                                  1.9s
+PS C:\Material\001 ZLI\03_Github_Repos\my_project>

@@ -29,7 +29,7 @@ Dieses Projekt basiert auf Unterrichtsmaterial zum Thema Virtualisierung sowie p
 **Source Directory:**  
 - Aufgabenstellung Virtualisierung (Repository-Struktur und Umsetzungsvorgaben)
 
-------------------------------------------------------------
+---
 
 # Aufgaben
 ## Vorgehen alle Spuren löschen
@@ -93,7 +93,7 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 ### 3. Einloggen:
 ```docker push <username>/<repository>:tagname```
 
-------------------------------------------------------------
+---
 
 # Container Performance
 
@@ -101,3 +101,18 @@ Ich arbeite auf Windows mit Docker Desktop und WSL2. Deshalb ist kein `sudo` not
 |---|---|
 | `docker stats <container-id>` | Shows stats like CPU, MEM USAGE and more |
 | `docker stats -a` | Shows stats of all containers including stopped ones |
+
+---
+
+# Pihole test
+
+### nslookup:
+
+C:\Users\masat>nslookup apple.com
+
+Server:  localhost
+Address:  127.0.0.1
+
+Name:    apple.com
+Addresses:  ::
+0.0.0.0
